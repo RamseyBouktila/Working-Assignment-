@@ -12,7 +12,7 @@ Boann Distillery aims to become the leading independent distillery and craft bre
 
 **Current IT Set up:** 
 
-Customer Relationship Management: Homegrown CRM backend system on a server on site. The CRM is configured provisioned to provide user access. This nessesitates that all employees who need access have all relevant software installed on their desktops. 
+*Customer Relationship Management*: Homegrown CRM backend system on a server on site. The CRM is configured provisioned to provide user access. This nessesitates that all employees who need access have all relevant software installed on their desktops. 
 
 This involves dedicated IT administration resources to track, update and support the software. 
 
