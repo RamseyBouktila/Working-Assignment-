@@ -1,5 +1,5 @@
 # Working-Assignment-
-This will be the assignment for submission please disregard the other. 
+
 **Company Background:** 
 
 Boann Distillery is a modern whiskey distillery located in Drogheda, Co.Meath. The 50,000ft2 facility contains a whiskey distillery, craft beer brewery and taphouse, visitor centre bar and onsite restaurant. 
@@ -12,24 +12,26 @@ Boann Distillery aims to become the leading independent distillery and craft bre
 
 **Current IT Set up:** 
 
-*Customer Relationship Management*: Homegrown CRM backend system on a server on site. The CRM is configured provisioned to provide user access. This nessesitates that all employees who need access have all relevant software installed on their desktops. 
+**Customer Relationship Management**: Homegrown CRM backend system on a server on site. The CRM is configured provisioned to provide user access. This nessesitates that all employees who need access have all relevant software installed on their desktops. This involves dedicated IT administration resources to track, update and support the software. The server (hardware) is also underutilized. Backing up customer data is also laborious and needs to be kept off site for security and risk midigation purposes. Another common challenge is the access to the data when offsite or away from the company issued devices. Confidential Business data on laptops and other devices maybe at risk. There is also a risk that the server represents a single point of failure. 
 
-This involves dedicated IT administration resources to track, update and support the software. 
-
-The server (hardware) is also underutilized. Backing up customer data is also laborious and needs to be kept off site for security and risk midigation purposes. 
-
-Another common challenge is the access to the data when offsite or away from the company issued devices. 
-
-Confidential Business data on laptops and other devices maybe at risk. 
-
-There is also a risk that the server represents a single point of failure. 
-
+*Recommendation* 
 Move to SaaS, like Saleforce.com Public Cloud is cost effective, 
-
 
 **Company website:** Website is hosted on a dedicated web server which was configured with the requirement in mind to handle customer traffic during their peak period which is around the Christmas time. As a business with groth apriations and a degree of seasonality servers were provisioned and need to be miantained that of intentionally larger than required and are more often (hardware) underutilized. 
 
+*Recommendation*: We recommend the company website moves to the cloud hosted on Azure, this will allow for scalability while experiencing growth as compute power can be added easily. 
+
+** Online store:**Currently using homegrown ecommerce hosted on servers, 
+
+*Recommendation*: Move to cloud platform like Shopify, this outsources this vital component of Boann's business to subject matter experts who can help design and optimize the online store which can result in higher sales. Also frees up resources internally and allows the business to scale more efficently. 
+
 **Email:** Currently using Office 365. This allows the business to quickly and easily comminicate internally and externally. We would recommend to keep this service on the cloud as the cost and effort to maintain and manage an Exchange server to high. Subscription to the service allows Boann to pay for what they use and avoid cost and complexity. 
+
+*Recommendation* Do not change.
+
+**Accounting software**
+
+**Final Thought** 
 
 While a small business today. Given it’s growth ambishions a cloud strategy would be recommended this is partly due to the high level of automation built into service provisioning, this is benficial as Boann can configure and their cloud service rapidily and deploy them quickly. (Srinivasan, 2014)
 
