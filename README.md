@@ -4,7 +4,7 @@ Introduction: This is report we will review the current IT set up of a small but
 
 We will start by providing a short background to the company, Boann Distillery, before addressing the current IT set up and providing recommendations on future deployement. The areas areas of focus of this report will be Customer Relationship Management, Company Website, Ecommerce function/Online store and email communication. 
 
-## **Boann Distillery-Company Background:** 
+## **Boann Distillery:** 
 
 Boann Distillery is a modern whiskey distillery located in Drogheda, Co. Meath. The 50,000ft2 facility contains a whiskey distillery, craft beer brewery and taphouse, visitor centre bar and onsite restaurant. 
 
@@ -18,7 +18,7 @@ Boann Distillery has ambitions to become the leading independent distillery and 
 
 In this section we look at components of the current IT set up and make recommendations on future deployments. With each recommendation we aim to provide rationale and sound justification based on cost, security, scalability, and resource allocation. 
 
-Of the three types of standard services available on the cloud, Infrastructure as a service (IaaS), Platform as a service (PaaS) and Software as a service (SaaS) we will focus primarily on SaaS as that is the most appropriate and obvious way for to realize the benefits of cloud computing for a business the size and complexity of Boann. (Srinivasan, 2014). PaaS and IaaS are primarily better utilized by larger more complex organizations. The benefits a smaller organization has is that adoption of cloud services enable agility and flexibility. 
+Of the three types of standard services available on the cloud, Infrastructure as a service (IaaS), Platform as a service (PaaS) and Software as a service (SaaS) we will focus primarily on SaaS as that is the most appropriate and obvious way for to realize the benefits of cloud computing for a business the size and complexity of Boann. (Srinivasan, 2014). PaaS and IaaS are primarily better utilized by larger more complex organizations.  
 
 ## **Customer Relationship Management**: 
 
@@ -66,7 +66,7 @@ The cloud hosted solution will also provide reliability as the provider can take
 
 It is highly unlike Boann can provide this level of security and service alone given IT and resource constraints. We recommend it is better to focus on Boann's core business in this instance. 
 
-In the area of security; It is important to note however that Cloud Service providers do not assume the responsibility to protect and secure customer data, Boann as the cloud customer is responsible for protecting this information (Weinman 2012, Gellman 2009). Encryption can be used to mitigate this risk. 
+In the area of security; It is important to note however that Cloud Service providers do not assume the responsibility to protect and secure customer data, Boann as the cloud customer is responsible for protecting this information (Weinman 2012). Encryption can be used to mitigate this risk. 
 
 ## **Email:** 
 
@@ -80,15 +80,20 @@ No change.
 
 While a small business today. Given its growth ambitions a cloud strategy would be recommended this is partly due to the high level of automation built into service provisioning, this is beneficial as Boann can configure and their cloud service rapidly and deploy them quickly. Infrastructure capacity and resource availability also favours cloud service providers to restore service faster than a single customer managing their own data centre. (Srinivasan, 2014).
 
-### *Summary of additional benefits and disadvantages* 
+The benefits a smaller organization has is agility and flexibility and adoption of cloud services can be done relatively easily.
+
+Similarly the overall cloud strategy we are recommending when approprate will be Public Cloud which are shared on demand infastructure and resources delivered by a provider. We recommend this approach for Boann due to scalablity, ease of deployement and cost considerations (Srinivasan, 2014). Private cloud is often utilized to ensure compliance with governance demands however we did not deem that appriporate in this instance due to inherant costs to configure and maintain. 
+
+### *Summary of additional benefits and disadvantages of migration to cloud* 
 
 Advantages   | Disadvantages 
 ------------- | -------------
-Service relability  | Lack of control over computing infrastructre 
-Service availability  | Possibility of data leakage during processing
+Service reliability | Lack of control over computing infrastructure 
+Service availability | Possibility of data leakage during processing
 Business continuity   | Privacy concerns and security controls
 Ability to pay as you go |Cloud outages and service disruption risk, note, this exists and is more prevalent in in-house companies
 High end computing services on demand |
+
 
 ### *References* 
 
